@@ -1,10 +1,76 @@
 GA log
-Generation number where we reached success: 161 
+Generation number where we reached success: 67 
  Iteration 0
 
-Generation number where we reached success: 51 
- Iteration 4
+Generation number where we reached success: 158 
+ Iteration 2
+
+Generation number where we reached success: 179 
+ Iteration 5
+
+Generation number where we reached success: 75 
+ Iteration 6
+
+Generation number where we reached success: 138 
+ Iteration 8
+
+Generation number where we reached success: 57 
+ Iteration 10
+
+Generation number where we reached success: 62 
+ Iteration 12
+
+Generation number where we reached success: 187 
+ Iteration 13
+
+Generation number where we reached success: 65 
+ Iteration 14
+
+Generation number where we reached success: 185 
+ Iteration 15
+
+Generation number where we reached success: 55 
+ Iteration 17
+
+Generation number where we reached success: 151 
+ Iteration 18
+
+Generation number where we reached success: 52 
+ Iteration 20
+
+Generation number where we reached success: 60 
+ Iteration 21
+
+Generation number where we reached success: 28 
+ Iteration 23
+
+Generation number where we reached success: 180 
+ Iteration 26
+
+Generation number where we reached success: 49 
+ Iteration 28
+
+Generation number where we reached success: 71 
+ Iteration 29
+
+Generation number where we reached success: 55 
+ Iteration 33
+
+Generation number where we reached success: 108 
+ Iteration 37
+
+Generation number where we reached success: 113 
+ Iteration 38
+
+Generation number where we reached success: 98 
+ Iteration 40
+
+Generation number where we reached success: 47 
+ Iteration 41
+
+Generation number where we reached success: 108 
+ Iteration 48
 
 Maximum generation reached: [200, 1] 
- Minimum generation reached: [51, 4] 
- Average generation reached 162
+ Minimum generation reached: [28, 23] 
+ Average generation reached 150

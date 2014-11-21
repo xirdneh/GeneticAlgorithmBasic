@@ -1,5 +1,11 @@
 #Simple Genetic Algorithm 
 
+## TODO
+  * Implement Tests
+  * Measure time spent in each iteration
+
+## Summary
+**Uses matplotlib** <br/>
 Run the script as `python main.py`<br/>
 
 It will create a file named result.txt where the results are going to be logged <br/>
@@ -12,5 +18,3 @@ Run the script as `python main.py {\d}` to specify the number of iterations <br/
 Example: `python main.py 1` will run it once. <br/>
 If there's no argument then it will run it 50 times as default.
 
-## AUTHOR
-Josue Balandrano Coronel
