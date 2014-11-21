@@ -1,0 +1,4 @@
+GA logGeneration number where we reached success: 54 
+ Iteration 0
+Generation number where we reached success: 198 
+ Iteration 1
