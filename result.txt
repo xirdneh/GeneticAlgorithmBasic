@@ -1,19 +1,10 @@
 GA log
-Generation number where we reached success: 163 
+Generation number where we reached success: 161 
  Iteration 0
 
-Generation number where we reached success: 117 
- Iteration 1
-
-Generation number where we reached success: 102 
- Iteration 2
-
-Generation number where we reached success: 46 
- Iteration 3
-
-Generation number where we reached success: 59 
+Generation number where we reached success: 51 
  Iteration 4
 
-Maximum generation reached: [163, 0] 
- Minimum generation reached: [46, 3] 
- Average generation reached 97
+Maximum generation reached: [200, 1] 
+ Minimum generation reached: [51, 4] 
+ Average generation reached 162

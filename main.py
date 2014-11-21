@@ -2,6 +2,7 @@
 from random import choice, randint, sample, shuffle, random
 from time import asctime as time
 from sys import argv
+import matplotlib.pyplot as plt
 
 '''
     initialize an individual for the population of size @size
@@ -140,9 +141,20 @@ if __name__ == '__main__':
     maximum = max(result, key=lambda r:r[0])
     minimum = min(result, key=lambda r:r[0])
     average = 0
+    x = []
+    y = []
     for r in result:
         average += r[0]
+        x.append(r[1])
+        y.append(r[0])
     average = average / len(result)
     f = open("result.txt", "a")
     f.write("\nMaximum generation reached: {0} \n Minimum generation reached: {1} \n Average generation reached {2}\n".format(maximum, minimum, average))
     f.close()
+    fig = plt.figure(figsize=(10,10))
+    axes = fig.add_axes([0.1, 0.1, 0.8, 0.8])
+    axes.plot(x, y, 'r')
+    axes.set_xlabel("Iteration")
+    axes.set_ylabel("Generation")
+    axes.set_title("Maximum generation reached: {0} \n Minimum generation reached: {1} \n Average generation reached {2}\n".format(maximum, minimum, average))
+    fig.savefig("plot.png")
