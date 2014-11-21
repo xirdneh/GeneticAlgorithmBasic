@@ -1,4 +1,19 @@
-GA logGeneration number where we reached success: 54 
+GA log
+Generation number where we reached success: 163 
  Iteration 0
-Generation number where we reached success: 198 
+
+Generation number where we reached success: 117 
  Iteration 1
+
+Generation number where we reached success: 102 
+ Iteration 2
+
+Generation number where we reached success: 46 
+ Iteration 3
+
+Generation number where we reached success: 59 
+ Iteration 4
+
+Maximum generation reached: [163, 0] 
+ Minimum generation reached: [46, 3] 
+ Average generation reached 97
